@@ -59,7 +59,3 @@ This project analyzes historical transaction data from a food ingredient supplie
 - `data_warmindo.xlsx` → dataset  
 - `KPI.png` → dashboard visualization  
 
----
-
-## 👤 Author
-Annida – Business & Data Analyst (CRM & BI Focus)
